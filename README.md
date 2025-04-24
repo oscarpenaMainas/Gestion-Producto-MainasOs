@@ -1,8 +1,4 @@
-# Gestión de Productos Reactivo
-
-
 # Gestion de Productos Reactivo
-
 
 ![Java CI with Maven] Mainas Os
 
